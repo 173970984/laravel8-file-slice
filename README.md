@@ -1,6 +1,9 @@
 
 ## 关于切片上传
-大文件切片上传，大文件断点上传，大文件分片上传
+
+php +laravel8 + vue2 大文件切片上传，
+php +laravel8 + vue2 大文件断点上传，
+php +laravel8 + vue2 大文件分片上传
 文件上传会临时保存在 public/uploads/temp 文件里面
 上传完成之后进行合并
 
