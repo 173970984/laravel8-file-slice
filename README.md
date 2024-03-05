@@ -9,6 +9,9 @@ vue2 仓库地址：
 https://github.com/173970984/vue-file-slice.git
 
 
+用爽了的老板可随意打赏，祝老板发财。有问题联系173970984@qq.com
+![image](a.jpg)
+![image](w.jpg)
 
 
 
